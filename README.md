@@ -1,2 +1,1 @@
-# h20
-Machine learning and Deep Learning Packages for python anad R Target IRIS PROJECT
+# https://www.coursera.org/learn/machine-learning-h2o
